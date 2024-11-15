@@ -1,3 +1,5 @@
+Equipe: ENZO OLIVEIRA - RM551356 / IGOR RIBEIRO ANCCILOTTO - RM550415 / JOÃO VITOR SOUZA NUNES - RM550381 / MATHEUS COLOSSAL - RM99572 / PEDRO HENRIQUE ENDO DE OLIVEIRA - RM551446, apenas o matheus colossal é 2TDSPZ, o resto é 2tdspf
+
 A solução monitora a condição do ambiente, que pode influenciar no consumo de ar-condicionado, ventilação, etc.
 Isso ajuda a identificar se o ambiente precisa de ajustes, como abrir janelas para ventilação natural e reduzir o uso de ar-condicionado.   
 
